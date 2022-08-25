@@ -20,4 +20,5 @@ import (
 
 func main () {
   fmt.Println("Hello, Universe!")
+  fmt.Println("Don't Fuck with these skills!")
 }
